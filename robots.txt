@@ -1,0 +1,5 @@
+user-agent: Baiduspider
+user-agent: Bingbot
+user-agent: Googlespider
+Disallow: user-agent: *
+Disallow: /tupian
